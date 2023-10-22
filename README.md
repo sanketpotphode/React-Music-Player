@@ -2,4 +2,4 @@
 I have built this music player in React JS, clone this, and enjoy.
 
 
-https://github.com/sanketpotphode/React-Music-Player/issues/1#issue-1955997025
+![react-music-player](https://github.com/sanketpotphode/React-Music-Player/assets/98548513/b4d03026-7068-4b43-9756-70b764ca5bdd)
